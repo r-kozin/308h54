@@ -62,7 +62,7 @@ for (let i = 10; i <= 400; i++) {
   console.log(i);
 }
 console.log("============================");
-for (let i = 12; i <= 400; i += 3) {
+for (let i = 12; i <= 4000; i += 3) {
   console.log(i);
 }
 console.log("============================");
